@@ -1,0 +1,11 @@
+h1{border:1px solid brown;background-color:orange;color:#00f}
+h1:hover{
+    background-color: beige;
+}
+.btn.btn-warning:hover{
+    background-color: greenyellow;
+}
+
+.alert.alert-primary:hover{
+    background-color: aquamarine;
+}
